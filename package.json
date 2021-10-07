@@ -6,6 +6,6 @@
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
-        "start": "node server.js"
+        "start": "node index.js"
     }
 }
