@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'jdnodeportfolio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4309DC8215374940A58698FC99DB8005 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7981AA7A6C8D40D5BB27219D388102C3 }}
           package: .
